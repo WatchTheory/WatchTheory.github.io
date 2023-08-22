@@ -19,7 +19,7 @@ Student Intern @ Alabama A&M ( May 2022- July 2022) <br>
 ●	Engaged in a simulated environment, exploring the intricacies of working with small organisms, further enhancing understanding and skills in biotechnology.<br>
 ●	Actively engaged in daily scrum meetings, contributing valuable insights and updates to the team's progress and goals.<br>
 
-### Project
+## Project
 #### Random Forest Project
 Self Project ( Feb 2023)    <br>
 Exploring the Intricacies of Random Forest Classifier <br>
@@ -45,7 +45,7 @@ The University of Houston – Victoria  (Augest 2022 - December 2022) <br>
 •	Collaborated with team members on assigned tasks and shared responsibilities. <br>
 
 
-## Database System : Coffee House Database 
+#### Database System: Coffee House Database
 The University of Houston – Victoria (Augest 2020 - Dec 2020) <br>
 •	Demonstrated effective leadership skills as the team lead and resolved team issues, guiding a group of 3 members towards successful project completion. <br>
 •	Leveraged expertise in Android Studios, PHP, MySQL, and Java to develop and deploy an end-to-end 3-tier database system, ensuring seamless functionality throughout the entire stack.<br>
