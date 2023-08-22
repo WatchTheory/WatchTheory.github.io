@@ -20,6 +20,8 @@ Student Intern @ Alabama A&M ( May 2022- July 2022) <br>
 ●	Actively engaged in daily scrum meetings, contributing valuable insights and updates to the team's progress and goals.<br>
 
 ## Project
+![random_forest](main/images/Random Forest.jpg)
+
 #### Random Forest Project
 Self Project ( Feb 2023)    <br>
 Exploring the Intricacies of Random Forest Classifier <br>
