@@ -1,8 +1,8 @@
 # Portfolio 
 
 ## Education
-• B.S.,Computer Information Systems | University of Houston - Victoria (May 2022) <br>
-• A.S., Liberal Arts | LoneStar College System (Dec 2020)
+• B.S ,Computer Information Systems | University of Houston - Victoria (May 2022) <br>
+• A.S , Liberal Arts | LoneStar College System (Dec 2020)
 
 
 ## Work Experience
